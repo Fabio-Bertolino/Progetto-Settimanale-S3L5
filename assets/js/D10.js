@@ -476,7 +476,7 @@ console.log("*******************************************************************
 */
 console.log("ESERCIZIO 17")
 const searchByTitle = (str) => {
-return 
+
 }
 
 console.log(searchByTitle(movies, 'The Avengers'))
